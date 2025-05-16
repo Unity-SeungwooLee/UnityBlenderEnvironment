@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.cloud.gltfast": "6.12.1",
+    "com.atteneder.gltfast": "file:C:/Users/victo/Downloads/glTFast-com.atteneder.gltfast-6.9.0/glTFast-com.atteneder.gltfast-6.9.0",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.ide.rider": "3.0.31",
     "com.unity.ide.visualstudio": "2.0.22",
